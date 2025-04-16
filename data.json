@@ -1,0 +1,10 @@
+{
+  "tahun": 2024,
+  "pendapatan": 500000000,
+  "belanja": 450000000,
+  "bidang": {
+    "Kesehatan": 100000000,
+    "Pendidikan": 120000000,
+    "Infrastruktur": 80000000
+  }
+}
