@@ -1,12 +1,12 @@
 {
   "tahun": 2025,
-  "pendapatan": 942.557.400,
-  "belanja": 2.897.159.974,
+  "pendapatan": 942557400,
+  "belanja": 2897159974,
   "bidang": {
-    "Sekretariat": 2.443.261.385,
-    "Metrologi": 39.675.000,
-    "Perdagangan": 8.700.000,
-    "Pasar": 173.234.725,
-    "Industri": 231.548.864
+    "Sekretariat": 2443261385,
+    "Metrologi": 39675000,
+    "Perdagangan": 8700000,
+    "Pasar": 173234725,
+    "Industri": 231548864
   }
 }
